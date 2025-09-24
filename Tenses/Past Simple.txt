@@ -1,0 +1,23 @@
+**Positive**: I played cooding yesterday.
+**Negative**: I did not play cooding yesterday.
+**Question**: Did you play cooding yesterday?
+
+# Usage
+Completed actions in the past
+ - I watched a movie last night.
+ - She visited Istanbul in 2019.
+Past Facts
+ - He was my ex girlfriend
+ - They lived in Ankara 10 years ago.
+Past habits/routines
+ - When I was child, I played outside every day.
+
+Positive: He studied English yesterday / We went to park on Sunday.
+Negative: I didn't eat breakfast this morning / She didn't watch TV last night.
+Question: Did you see him yesterday? / Did they finish their homework?
+
+# SIGNAL WORDS
+ - yesterday
+ - last night / last week / last year
+ - in 2000 / in may
+ - two days ago / a month ago

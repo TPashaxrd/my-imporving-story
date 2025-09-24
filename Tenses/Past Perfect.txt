@@ -1,0 +1,17 @@
+Positive: She had finished her homework before dinner. (Akşam yemeğinden önce ev ödevini bitirmişti.)
+Negative: She had not finished her homework before dinner. (Akşam yemeğinden önce ev ödevini bitirememişti)
+Question: Had she finished her homework before dinner?
+
+# Usage
+An action that happened before another past action
+ - When I arrived, they had already left.
+ - She had studied English before she moved to Canada.
+Cause-effect in the past.
+ - He was tired because he had worked all day.
+Reported speech (backshifting)
+ - He said he had seen the movie.
+
+# SIGNAL WORDS
+ - Before / After
+ - Already / Just
+ - by the time I'll build it.

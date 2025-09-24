@@ -1,0 +1,13 @@
+# The reulst is always correct.
+
+Examples:
+1. If you heat water to 100 celcius, it boils.
+2. if it rains, the ground gets wet
+3. If you touch fire, you get burned.
+4. If you mix red and blue, you get purple
+
+Little Rules:
+ - Both clauses are in Present Simple.
+ - If clause can be at the beginning or end:
+   - If you study hard, you pass the exam.
+   - You pass the exam if you study hard.

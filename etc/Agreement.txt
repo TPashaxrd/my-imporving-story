@@ -1,0 +1,18 @@
+Positive Words: He/She/It
+Examples:
+ - He plays football every weekend.
+ - She watches TV in the evening.
+ - It goes fast. (Hızlı gidiyor.)
+Negative Words: He/She/It
+Examples:
+ - He doesnt't play football. (not he doesn't plays)
+ - She doesn't like coffe.
+ - It doesn't work properly.
+Questions
+ - 
+
+| Subject | Positive             | Negative                    | Question                 |
+| ------- | -------------------- | --------------------------- | ------------------------ |
+| He      | He **plays** guitar. | He **doesn’t play** guitar. | **Does he play** guitar? |
+| She     | She **likes** pizza. | She **doesn’t like** pizza. | **Does she like** pizza? |
+| It      | It **works** well.   | It **doesn’t work** well.   | **Does it work** well?   |

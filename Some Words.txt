@@ -1,2 +1,3 @@
 DialogueS = Diyaloglar
 Eaten = Yediler
+Facts = Gerçekler 
