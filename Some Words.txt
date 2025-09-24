@@ -1,0 +1,2 @@
+DialogueS = Diyaloglar
+Eaten = Yediler
