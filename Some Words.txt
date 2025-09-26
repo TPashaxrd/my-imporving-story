@@ -2,11 +2,18 @@ DialogueS = Diyaloglar
 Eaten = Yediler
 Facts = Gerçekler 
 
+ETC | Et Cetra | Et Setıra
+You shouldn't threaten them. | Onları Tehdit Etmemelisin | yu şudınt theatın them
+
+threatened -> Tehdit ettin
+Threaten -> tehdit
+
 Glad to hear that = Bunu duyduğuma sevindim
 Junk Food = Abur Cubur
 You should sleep earlier. (Daha erken uyumalısın.)
 It should be easy. (Kolay olmalı)
 We shouldn't waste time. (Zaman Kaybetmemeliyiz.)
+They shouldn’t talk loudly in the library.
 
 
 Compulsory : Zorunlu, mecburi olan şey. Kım-pal-sıri
