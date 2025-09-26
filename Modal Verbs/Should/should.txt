@@ -1,0 +1,25 @@
+Positive: You should eat more coca cola.
+Negative: You should not (shouldn't) eat junk food
+Question: Should I call him?
+
+# Using
+Tavsiye
+ - You should sleep earlier. (Daha erken uyumalısın.)
+ - He should see a dactor. (Doktor'a gitmeli.)
+Beklenti / Tahmin
+ - The train should arrive at seven (7). (Tren 7'de gelmeli.)
+ - It should be easy. (Kolay olmalı)
+Kibarca öneri / fikir sorma
+ - Should I open the window? (Camı açayım mı?)
+ - What should we do now? (Şimdi ne yapmalıyız?)
+
+Example Sentences:
+ - We shouldn't waste time. (Zaman Kaybetmemeliyiz.)
+ - Should I help you with your homework?
+
+Mini Dialogue
+ - A: I feel sick.
+ - B: You should see a doctor.
+ - A: Should I take medicine?
+ - B: Yes, you should.                                                                                          
+ 

@@ -1,0 +1,10 @@
+20 tane must ile ilgili cümle kurulacak (5 tane soru cümlesi)
+20 tane should ile ilgili cümle (5 er tane soru cümlesi)
+20 tane have to ile ilgili cümle (5 tane he she it'den, 5 tane we den, 5 tane de soru cümlesin)
+20 tane Each Other ile ilgili cümle
+Make a autobiography
+
+Note: 
+Should: Should arkadaşça tavsiye, öneri verildiğinde
+Have to: Bir kural, gereksinim ve zorumluluk
+Mast: Kavga, Sinirli ve günlük ingilizcede az kullanılır.

@@ -3,6 +3,10 @@ Eaten = Yediler
 Facts = Gerçekler 
 
 Glad to hear that = Bunu duyduğuma sevindim
+Junk Food = Abur Cubur
+You should sleep earlier. (Daha erken uyumalısın.)
+It should be easy. (Kolay olmalı)
+We shouldn't waste time. (Zaman Kaybetmemeliyiz.)
 
 
 Compulsory : Zorunlu, mecburi olan şey. Kım-pal-sıri
