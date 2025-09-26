@@ -10,7 +10,7 @@
 
 20 tane Each Other ile ilgili cümle
 
-Make a short autobiography
+Make a short autobiography - Min 20 sentence.
 
 > Notlar:
 
