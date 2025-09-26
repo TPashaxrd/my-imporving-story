@@ -1,0 +1,20 @@
+Positive: You must study hard.
+Negative: You must not (mustn't) smoke here.
+Question: Must I go now?
+
+Example:
+ - You must wear a helmet. (Kask takmalısın./Zorunlu)
+ - Studens must study for the exam. (Öğrenciler sınav için çalışmalıdır)
+
+Rules: 
+# NEGATIVE
+Musn't = > Yasak anlamına gelir
+Example: You mustn't park here. (Buraya park etmemelisin / yasak.)
+# QUESTION
+Example: Must we be quiet? - Must I finish this today?
+
+How to speak(Mast):
+ - you must go - > yu mast go
+ - He must study -> hi mast stadi
+ - They must be tired - < dey mast bi tayrıd
+ - Generally: Mast - > Must

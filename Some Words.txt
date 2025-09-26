@@ -1,3 +1,270 @@
 DialogueS = Diyaloglar
 Eaten = Yediler
 Facts = Gerçekler 
+
+Glad to hear that = Bunu duyduğuma sevindim
+
+
+Compulsory : Zorunlu, mecburi olan şey. Kım-pal-sıri
+Persuasive : İkna edici. Pır-swey-siv
+Lucrative : Karlı, çok para getiren. Luk-ra-tiv
+Incentive : Teşvik. In-sen-tiv
+Assertive: Kendinden emin, iddalı . ı-sır-tive
+Resilient : Dirençli, Yılmaz. rı-zi-lyınt  - ( hızlı söylerken t düşer )
+Manipulate : Manipüle etme, yönlendirme. muh-ni-pyuh-leyt  - ( hızlı söylerken t düşer)
+Pitch : Satış konuşması. Piç
+Rebuttal : Karşı argüman, cevap. re-bat-l  - (T biraz d şeklinde )
+Defiant: Asi, karşı koyan, boyun eğmeyen. di-fa-yınt  - (di-dı arası)
+Contiguous : sharing a common border. kun-tig-yus
+Percived: Algılanan. pır-siivd
+Affordable : Ekonomik, satın alınabilir, para yettirilebilir. A(h)-for-di-bıl
+
+Abundant: Bol, çok. Æ-ban-dınt
+I need an abundant supply of coffee in the morning.
+Considerable: Adjective :  Kayda değer, önemli. kun-sı-dıri-bıl
+I need a considerable amount of money for paying my bills
+The snow was not much but it was considerable for us
+Considerably : Adverb : önemli ölçüde, oldukça. Kun-si-dı-rib-li
+He has worked considerably for the homework.
+Note : -able / -ible → sıfat, -ly → çoğunlukla zarf.
+Diverse: Adjective : Farklı, çeşitli. Dai-v-u/ö-rs // dai-vurs
+The city has diverse cultures and people.
+I like turkish foods because its they have diffrent taste and diverse spices.
+Enhance: Verb :  Geliştirmek, artırmak, iyileştirmek . in-hens
+This pill enhances your life, the guy in the pharmacy said
+I'm just trying to enhance my English.
+We will enhance our performance with the new teammate.
+Essential: Adjective : Gerekli, çok önemli. Æ-sen-şıl.
+For improving your speaking skills diction is essential.
+A car is not essential for anyone.
+I believe that, knowing Excel is essential for junior data analysts.
+Obtain: Verb : Elde etmek, kazanmak. o/ub-tein
+You can obtain important resources from this website.
+Generally i obtain my money from this job!
+I don't know how he obtains the money... Maybe freelance or something?
+Significant: Adjective : Önemli, kayda değer. sig-ni-fı-kınt.
+I guess this year is most significant year for him. Maybe mines too?
+This text is significant for forest hikers. It Shows the way from mountain to the city.
+The rose happened this year is really significant for the company's history.
+Reliable: Adjective : Güvenilir. Ri-lai-bıl.
+She has the most reliable friends in this universe.
+How I can find reliable information on the internet?
+I have question for you! How can make reliable friends?
+Maintain: verb : Sürdürmek, korumak, var olana devam etmek. Meyn-teyn.
+I'm just trying to maintain my job! I don't want to lose it.
+He should maintain his position in the company.
+Maintainable : adjective : sürdürülebilir. meyn-teyn-i-bıl.
+This workload is not maintainable for anyone!
+Note : Maintain verbi , bağlama göre farklı anlamlarda kullanılır:
+Sürdürmek / devam ettirmek / korumak
+Genel kullanımda, bir durumu veya standardı devam ettirmek için kullanılır.
+Örnek: I’m trying to maintain my job. → İşimi sürdürmeye çalışıyorum.
+Yönetmek / güncel tutmak / erişilebilir hâlde bulundurmak
+Sistemler, veri tabanları, ekipman veya hizmetler için kullanılır.
+Örnek: The IT team maintains the company’s databases. → IT ekibi şirketin veri tabanlarını yönetiyor / güncel tutuyor.
+Bakım yapmak / işlevselliğini sağlamak
+Araçlar, makineler veya ekipman için.
+Örnek: They maintain the machines regularly. → Makinelerin bakımını düzenli yapıyorlar.
+IELTS Reading ve Writing’de maintain çoğunlukla 2. anlamda, yani veri tabanları, sistemler, hizmetler için “yönetmek / güncel tutmak” olarak çıkar.
+Flexible: Esnek, uyumlu. Flek-si/ı-bıl.
+I'am a flexible student, i can get along with anybody in the class.
+This wheel is flexible for different cars. You must buy it!
+Associated: Genelde sonuna with eklenir, ilişkili bağlantılı gibi anlamlara gelir A-so-sı-eytıd.
+Most car crashes are associated with carelesness
+Hinder: Engellemek, zora sokmak. Hin-dır.
+The bad weather might hinder our activities.
+It seems like  you are hindering his event...
+Undermine: Baltalamak, zayıflatmak.
+The teacher undermining students rights.
+His rights are undermined after the new president came to our department.
+Emphasize:  Vurgulamak .Em-fuıh-sayz
+When he is talking i just understand he is really good at emphasizing words and sentences.
+I want to emphasize, I'm not from this country!
+Sustainable: Sürdürülebilir . Sus/sis-tiyn-e-bıl.
+This working plan is not sustainable.
+I'm sure about the new inflation plan will be sustainable! at least better than before!
+Inevitable: Kaçanılmaz olan, kaçınılmaz. in-evi-tibıl.
+In this life nothing is inevitable.
+The situation we all are in have inevitable end..We must ignore it for our mentalilness.
+Contraversial: tartışmalı. kont-ra-ver-şıl
+Everyone one is really contraversial about john's new coffee style.
+Plausible: Makul, mantıklı. Plaa-zıi-bıl / Plu-zıi-bıl.
+He offered a plausible money for this product then we couldnt reject him.
+Thanks for your plausible offer but i cant accept that.
+
+Obvious: Belli, açık. Ao-b-vius.
+It was obvious! Why we didnt get prepared?
+Emerge: ortaya çıkmak. e-mörj/ e-mej.
+After all the truths are emerge.
+The econmy is started emerge from recession.
+The thing i forgot a few days ago today its emerg under my bed.
+Prevalent: Yaygın. Pre-vı-lınt
+These days the mental ills are prevalent in our society. The percent of who has mental problem is 25, it is a really considirable value
+
+Negotiate.Müzakere etmek. ne-go-şi-eyt
+To me we should negotiate that problem with more team member.
+Tough: Sert, zorlu, dayanıklı. Tuhf.
+It rained so much yesterday, it will be so tough for cats..
+Hey this question is tough for students? isn't it?
+Struggle: Mücadele etmek, çabalamak. Stra-gıl
+He should more struggle for the last exam if he wants to obtain the degree.
+I am struggling for retire my parents! and i will get there asap.
+Arrogant: Kibirli, kendini beğenmiş. A-ri-gınt.
+My friend is so arrogant that he never listens the advice i give him.
+Courage: Cesaret. Ku/a-rıç.
+I have lot of courage for when it comes to driving a car.
+Remarkably: Dikkate değer biçimde, olağanüstü biçimde. re-markı-bli.
+The percentage is remarkably high!
+The percentage is remarkable!
+Recap: Özetlemek, tekrar gözden geçirmek.
+If you want to know what happened I can recap everything for you
+Mitigate: hafifletmek, azaltmak. mi-ti-geyt
+We should mitigate the recession by reducing the inflation.
+Correlate: ilişkilendirmek, bağlantı kurmak. Ka-rı-let.
+The body building is really controversial among people, so they are correlate it with early death and a short life
+Nibble on: Atıştırmak , küçük küçük yemek. nibıl on .
+Yesterday, the teacher got angry because my friend nibbled on chips in the middle of the lesson.
+Sufficient: yeterli. su-fi-şınt.
+I hope the time will be sufficient for this...
+If you ask me whether I am sufficient for this job, I would say "Yeah I am"
+Evidence : Kanıt . E-vi-dıns
+Sustain : sürdürmek. Sau-s-teyn.
+I'm not sure  if he can sustain this workload.
+Okay i understand that I can't earn more! Now i should protect what i have and sustain my position in this company.
+Illustrate :  örneklemek, açıklamak, resimlemek. i-lus-treyt.
+Generally i use the images and articles for illustrate and support my idea!
+Acknowledge : kabul etmek, fark etmek. Ek-nov-lıjc / Ek-no-lıc.
+After the example i understood what i did...then i just acknowledged my bad and apologized for it
+Overcome: üstesinden gelmek. Ovı-kam (hafif r vr).
+I'm pretty sure that by fixing problems, i can overcome all of them!
+Contend: mücadele etmek, ileri sürmek(tartışmak). Kun-tend.
+I have enough problems to contend with, but he is still giving more problems to me! I'll punch his face ASAP
+Note : We wil use whether for "ip mediğini" or "her iki ihtimalden hangisi doğru olduğunu". And this word is formal. If we use a informal version of this, it will be "if".
+The pronunciation is we-tha
+Sedentary: hareketsiz, oturarak yapılan. Se-dın-tri.
+Man you are alway sitting in the chair. I hope you know how much being sedentary is bad for your physicial health
+Involve : Kapsamak, dahil etmek, gerektirmek. In-voulv.
+It involves every member of our team. There is no exception for anyone!
+immune :  bağışıklık. i-muün.
+Certain : Bazı, belirli. seör-tın
+disease: hastalık .dı-zis diseases : hastalıklar dı-zi-sıs
+belong: ait olmak bei-long
+Occasionally : ara sıra- bazen , o-key-şı-na-li
+Convince : ikna etmek , kesin olarak inanmak, emin olmak kun-vins.
+I tried to convince my friend to join the study group.
+Convinced : adjective : emin olmak 
+The Government is convinced that.
+They are convinced of the importance of education.
+
+The nub of a problem : En can alıcı ve önemli noktası problem veya situation.
+Association : dernek/organizasoyon gibi anlamlara gelir , bazen de ilişkili gibi kullanılabilir bkz. associated .Æ-so-sı-ey-şın
+Compare : eğer with kullanıyorsak karşılaştırıyoruz , to kullanıyorsak ise benzetiyorz.
+My life is compares to a rollercoaster.
+If we compare germany's economy with USA's germany has more inflation than USA
+Several: ikiden fazla ama çok değil. se-vı-rıl.
+I visited paris several times 
+Zaman olarak:
+Year /Years -> yıl / yıllar
+Decade / Decades -> on yıl / on yıllar - The tradition has existed decades
+Century / Centuries -> yüz yıl / yüz yıllarca - Romans has controlled europe  for centuries
+Millennium / Millennia -> bin yıl / bin yıllar
+Decide : Karar vermek, seçim yapmak. Di-sayt.
+He decided to study abroad next autmn
+I can't decide what I would eat
+Proverbs : Atasözleri , pro-vebs
+No wonder (then) : şaşırmamalı, demek ki, o yüzden.
+That is mine, no wonder then.
+Peckish : hafif acıkmış, karnı biraz aç. Pe-kiış
+Humble : Mütevazı kişi, küşük düşürmek, sıradan.
+Sıradanlık için --> I found a humble apple in my fridge.
+Mütevazılık --> He was really humble in the show.
+Versatile : çok yönlü, birçok şey/iş için uygun.
+I am a versatile guy.
+Porridge: yulaf lapası
+Adding honey to a porridge the best thing you can do for the taste.
+apple crumble with custard : elma tatlısı tarzı bisi amk
+Lecture : Ders. lekçur  / Lecturer : öğretmen . lekçurır
+
+Words from IETLS Practice reading test
+Touted: Övülen. Tau-ted
+Apart : ayrı, ayrılmak, ayrı olmak, yanısıra  : E-paat
+Demand : Talep etmek . De-maınd
+Urban : Kental Rural : Kırsal
+denominations : para türleri, para çeşitleri gibi bisi
+Confident : emin olmak / kendine güvenmek. I am confident about my exams results. Kun-fi-dınt
+across : bir yerin bir  tarafından diğerine / yayılmak / boyunca. Ek-ros
+hand over : vermek / devretmek
+recipient : alıcı . Rı-s-piınt
+favourably : avantajlı, olumlu şekilde . Fey-vi-rob-li // positively, advantageously
+levy / levied : tahsis edilen, alınan , (genelde komisyon ücret veya vergi ). Le-viid
+as in : -da olduğu gibi / -da görüldüğü gibi
+extensive : yaygın  - eix-ten-siv
+as + sıfat + as : eşitlik belirtir : She is as tall as her brother.
+concern : endişe. Kun-sen
+insist : ısrar etmek, idda etmek. 
+prevents, prevented : engellemek, önlemek. pre-vents.  A helmet prevents your head from injuries
+remittance : havale / para göndemrek . re-miı-diıns
+migrant : göçmen . mai-grınt
+---
+disappoint / disappointed : hayal kırıklığı, hayal kırıklığına uğramak . di-sı-poynt
+attemp : girişim/ çaba sarf etmek / emek sarf etmek. etempt
+is/are likely to : muhtemlen anlamı katar probably gibi , -ması muhtemlen. She is likely to arrive late.
+petition : dilekçe
+congestion : sıkışıklık, tıkanlıklık. Özellikle Traffic congestion : trafik sıkışıklığı
+determine(verb) : belirlemek, saptamak, karar vermek. He determined the cause of the problem.
+determined (adjective) : azimli, kararlı. He is really determined about his new life.
+vital : hayati
+convenience : uygunluk , pratiklik, rahatlık, kolaylık. kun-vin-iıns
+be better off : daha iyi olmak . You’d be better off studying for the exam instead of watching TV.
+rely-ing: verb : genelde on ile bilrikte kullanılır : birine/birşeye güvenmek, bel bağlamak, dayanmak. I am relying on my phone...
+despite : rağmen. despay
+commitment : sorumluluk , yükümlülek. Everyone have different commitments.
+Advice: noun: tavsiye : ed-vays (kısa) Did you care teacher's advice?  advise (uzun) :  verb : ed-vays : I advise you to study more.
+as if : gibi, sanki.
+plenty of :  çok, bol miktarda.
+decent : iyi , makul, yeterli, düzgün. genelde insanlar, nesneler veya kalite için kullanılır. di-sınt .
+This a car is decent for the price. He is a decent person
+estimate: verb :  tahmin etmek, değer biçmek. The estimate is that.
+correspondingly : ona göre, karşılık olarak, orantılı şekilde. Genellikle “bir şeye bağlı olarak değişen” durumları ifade eder.  ko-res-pan-ding-ly.
+Prices rose, and wages rose correspondingly
+in fact : aslında, hatta , doğrusu, gerçekte, adeta. In fact, the prices are affordable for everbody.
+accounting for : verb : -e denk gelmek . Depreciation accounts for £2,420 a year.
+resort : başvurmak, genelde zor durumlarda başvurma eylemi olarak geçer.  re-zut
+brodly the same: genellikle aynı. brodli
+Leaving aside : bir kenara bırakmak (göz ardı etmek). 
+assume-ing : farz etmek, varsaymak. e-su-ming assuming that you have the most expensive travel card in London.
+reckon : verb : düşünmek, tahmin etmek, inanmak. informal bayabi 
+provide : sağlamak, temine etmek. / birine birşey sunmak , fırsat vermek . pru-vayd
+The library provides books to students
+The library provides students with books.
+I am providing you with a chance to study abroad
+
+provide + someone + with + something  // provide + something to someone
+colleagues : meslektaşlar , iş arkadaşları . ko-ligs.
+for that matters : aslında, ayrıca . I don't like books, for that matters.
+such as : gibi : the beaches such as in florida are really good for vaccination.
+Note : Rise (yükselmek) verb3 hali Risen iken past hali Rose dir
+Halt : fiil olarak durdurmak, durmak, sonlandırmak. isim olarak durma, durak, mola. Huult
+fortnight : 2 hafta - 14 gün
+leap : sıçramak, atlamak.
+subsidised : ucuzlatılmıi, devlet desteği, sübvanse edilmis.
+consume: verb :  tüketmek, harcamak, yemek-içmek. Cars consume a lot of fuel
+conventional : geleneksel
+widespread  : yaygın. vayd-spred
+scepticisim : şüphecilik / kuşkulucuk skep-ti-si-zim
+There is widespread scepticisim about the new policy among people
+doubt : şüphe, dauvt
+Domestic : evle ilgili, evcil / yerli .  duh-mes-tik . Domestic chores
+IELTS ipucu:
+Reading ve Writing’de scepticism, doubt, skepticism (Amerikan İngilizcesi) gibi kelimeler çıkabilir.
+Scepticism about / towards → “… hakkında kuşkuculuk / şüphe” anlamı verir.
+ambitious : hırslı / büyük hedefleri olan / iddialı . Em-bi-şıs
+She is so ambitious // He released an ambitious project yesterday 
+but to no avail : boşa yaramak (avail yaramak demektir)
+diminish : verb : azaltmak, küçültmek, eksiltmek. duü-mi-niş
+settle on : verb : karar vermek, seçmek
+---
+investigate : verb : araştırmak :  in-ves-ti-geyt. I'll investiage that 
+jerky : hızlı ,yumuşak olmayan hareket gibi
+intentional : kasıtlı, bilerek yapılan, isteyerek. in-ten-şın-ıl. It was an intentional mistake!
+particular : belirli, özel, belli bir ; özellikle :peh-ti-ki-la Is there any particular reason for you are late
