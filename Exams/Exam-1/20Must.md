@@ -43,3 +43,7 @@
 **19**. You mustn't threaten them.
 
 **20**. you mustn't scare your friends.
+
+
+be cimpoi sandu ciorba
+whiskey cola tequila

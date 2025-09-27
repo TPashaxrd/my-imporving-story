@@ -16,4 +16,4 @@ Meaning: birbirini/birbirleri
 
 **7**. We kissing each other.
 
-**8**. 
+**8**. We understand each other well.
