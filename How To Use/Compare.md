@@ -10,6 +10,10 @@ Compare A to B --> Benzetme Compare A with B --> Karşılaştırma
   (Hayatım bir Wows filmine benziyor..)
 If we compare germany's economy with USA's germany has more inflation than USA
 
+“compares” = karşılaştırır (fiil, şimdiki zaman)
+
+“is compared” = karşılaştırılır / benzetilir (pasif, doğru kullanım burada)
+
 ## How to speak?
  - Kımper / kım-pörd -> Compare
 

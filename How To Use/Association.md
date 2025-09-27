@@ -8,7 +8,6 @@ Association = Dernek, Birlik, Kuruluş, İlişki, Bağ etc.
 
 Asosiyeyşın = Association
 
-
 ## Using
 
 - I'm remember of a teachers' association
