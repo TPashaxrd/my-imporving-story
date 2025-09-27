@@ -7,6 +7,12 @@ You shouldn't threaten them. | Onları Tehdit Etmemelisin | yu şudınt theatın
 
 threatened -> Tehdit ettin
 Threaten -> tehdit
+Accused -> Suçlandı
+Slander -> İftira etmek.
+Blasphemy -> Dine küfür (Önemli bir değere küfür)
+
+
+ - I met a man who likes hacking. -> Korsanlığı seven bir adamla tanıştım.
 
 Glad to hear that = Bunu duyduğuma sevindim
 Junk Food = Abur Cubur
