@@ -10,6 +10,13 @@ Threaten -> tehdit
 Accused -> Suçlandı
 Slander -> İftira etmek.
 Blasphemy -> Dine küfür (Önemli bir değere küfür)
+Prevalent = Yaygın 
+Spy = Casus
+Salvation = Kurtuluş
+My thoughts = Düşüncelerim 
+
+if we incorporate it into the constitution = Eğer anayasaya geçirirsek.
+Criminals will cover their own expenses. = Suçlular kendi giderlerini karşılayacak.
 
 
  - I met a man who likes hacking. -> Korsanlığı seven bir adamla tanıştım.

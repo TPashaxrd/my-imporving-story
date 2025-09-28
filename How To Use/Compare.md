@@ -8,7 +8,7 @@ Compare: eğer with kullanıyorsak karşılaştırıyoruz , to kullanıyorsak is
 Compare A to B --> Benzetme Compare A with B --> Karşılaştırma
 - My life is compares to a Wows movie..
   (Hayatım bir Wows filmine benziyor..)
-If we compare germany's economy with USA's germany has more inflation than USA
+If we compare germany's economy with USA's germany has more inflation than USA.
 
 “compares” = karşılaştırır (fiil, şimdiki zaman)
 
