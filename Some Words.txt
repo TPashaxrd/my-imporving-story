@@ -1,3 +1,6 @@
+Either = İkisi de
+Neither = Hiçbiri
+
 DialogueS = Diyaloglar
 Eaten = Yediler
 Facts = Gerçekler 
@@ -5,10 +8,12 @@ Facts = Gerçekler
 ETC | Et Cetra | Et Setıra
 You shouldn't threaten them. | Onları Tehdit Etmemelisin | yu şudınt theatın them
 
+dont dissect it => onu parçalamayın
 threatened -> Tehdit ettin
 Threaten -> tehdit
 Accused -> Suçlandı
 Slander -> İftira etmek.
+Regardless = Ne olursa olsun
 Blasphemy -> Dine küfür (Önemli bir değere küfür)
 Prevalent = Yaygın 
 Spy = Casus
